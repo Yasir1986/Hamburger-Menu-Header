@@ -6,6 +6,12 @@ const Menu = () => (
       <label htmlFor="openSidebarMenu" className="sidebarIconToggle">
         HamburgerMenu
       </label>
+      {/*   <ul className="header-nav">
+            <li>Home</li>
+            <li>Products</li>
+            <li>About</li>
+            <li>Contact</li>
+        </ul> */}
     </div>
     <input type="checkbox" id="openSidebarMenu" />
 
