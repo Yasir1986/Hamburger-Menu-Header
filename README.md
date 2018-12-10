@@ -1,4 +1,4 @@
-Follow the following steps to run this Hambuger-Menu-Header in React
+Follow the steps to run this Hambuger-Menu-Header in React
 
 1) git clone https://github.com/Yasir1986/Hamburger-Menu-Header.git
 
